@@ -1,0 +1,14 @@
+.product-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: var(--ds-color-bg-tertiary);
+}
+
+.nav-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    font-size: 16px;
+}
